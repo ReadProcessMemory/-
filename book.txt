@@ -1,0 +1,1 @@
+//put data: name;surname;patronymic;country_code;city_code;number;extension_number;
